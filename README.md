@@ -1,4 +1,4 @@
-# ui_clone_app
+# sani_ui_clone_app
 
 A new Flutter project.
 
